@@ -2,7 +2,7 @@
 ### Hi there 👋, I'm Ahmed<br><br>I'm a passionate Full-Stack Software Engineer and CS student from Egypt, specializing in building modern, responsive, and user-friendly web applications. <br><br>* 🔭 **I’m currently working on:** Full-stack web platforms and interactive digital menus using Angular, React, and Supabase.<br>* 👯 **I’m looking to collaborate on:** Open-source web projects or anything involving modern UI/UX trends like Bento grid layouts and 3D animations.<br>* 🤝 **I’m looking for help with:** Advanced computer graphics (OpenGL) and network socket programming.<br>* 🌱 **I’m currently learning:** Operating systems, distributed systems, and deepening my knowledge in software architecture at Sohag University.<br>* 💬 **Ask me about:** Frontend development (Angular, React, Tailwind CSS, TypeScript), Supabase, or freelance web development.<br>* ⚡ **Fun fact:** When I'm not writing code or debugging, you can find me strength training and lifting heavy weights at the gym! 🏋️‍♂️
 
 
-## 🌐 Socials:
+#### 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ahmed Abdo) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmed_abdo_710) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ahmed Abdo) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmedalharmosi@gmail.com) 
 
 # 💻 Tech Stack:
